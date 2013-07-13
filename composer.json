@@ -1,0 +1,13 @@
+{
+    "name": "maxon-design/exceptions",
+    "description": "Exceptions for projects.",
+    "authors": [
+        {
+            "name": "Václav Makeš",
+            "email": "info@makes.cz"
+        }
+    ],
+    "require": {
+
+    }
+}
