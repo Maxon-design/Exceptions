@@ -1,8 +1,8 @@
 <?php
 
-namespace MaxonDesign\Exception\Runtime\App;
+namespace Maxondesign\Exception\Runtime\App;
 
-use MaxonDesign\Exception\Logic\App\AppException;
+use Maxondesign\Exception\Logic\App\AppException;
 
 class DuplicateEntryException extends AppException
 {

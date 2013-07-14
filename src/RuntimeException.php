@@ -1,8 +1,8 @@
 <?php
 
-namespace MaxonDesign\Exception\Runtime;
+namespace Maxondesign\Exception\Runtime;
 
-use MaxonDesign\Exception\Exception;
+use Maxondesign\Exception\Exception;
 
 class RuntimeException extends Exception
 {

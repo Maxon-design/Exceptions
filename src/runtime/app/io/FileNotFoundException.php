@@ -1,8 +1,8 @@
 <?php
 
-namespace MaxonDesign\Exception\Runtime\App;
+namespace Maxondesign\Exception\Runtime\App;
 
-use MaxonDesign\Exception\Runtime\App\IO\IOException;
+use Maxondesign\Exception\Runtime\App\IO\IOException;
 
 class FileNotFoundException extends IOException
 {

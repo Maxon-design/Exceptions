@@ -1,6 +1,6 @@
 <?php
 
-namespace MaxonDesign\Exception;
+namespace Maxondesign\Exception;
 
 class Exception extends \Exception
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace MaxonDesign\Exception\Logic;
+namespace Maxondesign\Exception\Logic;
 
-use MaxonDesign\Exception\Exception;
+use Maxondesign\Exception\Exception;
 
 class LogicException extends Exception
 {
