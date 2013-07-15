@@ -1,6 +1,9 @@
 {
     "name": "maxon-design/exceptions",
     "description": "Exceptions for projects.",
+    "require": {
+        "composer/installers": "~1.0"
+    },
     "authors": [
         {
             "name": "Václav Makeš",
