@@ -1,6 +1,7 @@
 {
     "name": "maxon-design/exceptions",
     "description": "Exceptions for projects.",
+    "license": "MIT",
     "require": {
         "composer/installers": "~1.0"
     },
