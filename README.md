@@ -1,0 +1,5 @@
+Exceptions
+==========
+
+Structure of exceptions.
+
