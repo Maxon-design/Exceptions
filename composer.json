@@ -1,6 +1,7 @@
 {
     "name": "maxon-design/exceptions",
     "description": "Exceptions for projects.",
+    "type": "wordpress-theme",
     "require": {
         "composer/installers": "~1.0"
     },
