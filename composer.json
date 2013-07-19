@@ -5,6 +5,9 @@
     "require": {
         "composer/installers": "~1.0"
     },
+    "autoload": {
+        "classmap": ["src/"]
+    },
     "authors": [
         {
             "name": "Václav Makeš",
